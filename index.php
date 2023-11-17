@@ -1,1 +1,1 @@
-
+$appName=”Mi aplicación web”
